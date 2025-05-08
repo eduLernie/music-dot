@@ -1,0 +1,10 @@
+
+
+# Copia o repositorio remoto para o local
+git clone <url>
+
+# Mostrar o estado atual dos arquivos no respositorio
+git status
+
+# Adicionar arquivos ao controle de versões
+git add <lista de arquivos que sera enviado ao repositorio>
